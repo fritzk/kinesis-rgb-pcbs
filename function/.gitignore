@@ -1,0 +1,11 @@
+# KiCad temporary and local files
+*-save.kicad_pcb
+*-save.kicad_sch
+fp-info-cache
+*.pyc
+*.bak
+*~
+
+# Exclusive to KiCad 6/7/8 project backups
+*.kicad_prl
+/backups/
